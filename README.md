@@ -16,7 +16,7 @@
 Sou um desenvolvedor focado em criar sistemas eficientes, explorar a fundo arquiteturas de banco de dados e otimizar ambientes de trabalho. Quando não estou no terminal, provavelmente estou tocando música ou imerso em algum projeto colaborativo.
 
 - 🎓 **Estudos:** Bacharelado em Ciência de Dados e Inteligência Artificial (UNISENAI).
-- 🚀 **Projetos Recentes:** (QuimioAnalytics)[https://github.com/vini20041994/QuimioAnalytics].
+- 🚀 **Projetos Recentes:** [QuimioAnalytics](https://github.com/vini20041994/QuimioAnalytics).
 - 🎸 **Fora do código:** Tocar guitarra, escutar heavy metal e testar códigos que melhorem a qualidade de vida.
 
 <br>
