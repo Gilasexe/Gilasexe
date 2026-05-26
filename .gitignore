@@ -37,3 +37,7 @@ secrets.json
 # Arquivos inúteis criados pelo Windows ou Mac
 .DS_Store
 Thumbs.db
+
+# arquivo de templates
+
+templates/
