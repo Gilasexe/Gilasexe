@@ -25,11 +25,57 @@ Sou um desenvolvedor focado em criar sistemas eficientes, explorar a fundo arqui
 
 ### 👾 Perfil / Stats
 
-```js
-const desenvolvedor = {
-  nome: "Guilherme",
-  vulgo: "Gilas",
-  sistemaPrincipal: "Windows 11 / CachyOS (Arch-based)",
-  ferramentas: ["Terminal Linux", "PostgreSQL", "Python"],
-  trilhaSonora: ["Megadeth", "Metallica", "System of a Down", "Queens of the Stone Age"]
-};
+```py
+from dataclasses import dataclass
+from typing import List
+
+@dataclass
+class Dev:
+    nome: str
+    vulgo: str
+    freeTime: str
+    estudando: str
+    trilhaSonora: List[str]
+
+# Instanciando o seu perfil
+eu = Dev(
+    nome="Guilherme",
+    vulgo="Gilas",
+    freeTime="jogos, códigos e fazendo algo no linux tentando não quebrar o sistema",
+    estudando="Bacharelado em Ciência de Dados e IA. - UNISENAI",
+    trilhaSonora=["Megadeth", "Metallica", "System of a Down", "Queens of the Stone Age"]
+)
+```
+
+---
+
+### 🛠️ Conhecimentos e Habilidades
+
+#### **Desenvolvimento**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff">
+</p>
+
+#### **Cooperatividade e Produtividade**
+<p align="left">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
+</p>
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GuiZamb32&label=Profile%20Views&color=0077B5&style=flat-square" />
+</p>
