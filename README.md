@@ -8,14 +8,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Future Data Scientist
 ---------------------
 
-I got into coding back in high school, which led me to start my degree in Data Science and AI at UNISENAI Florianópolis in 2024. When I discovered the programming universe, I totally fell in love. The idea of just writing some text and watching it turn into a whole working system blew my mind. Since then, I've been learning as much as I can. I mostly use Python and PostgreSQL right now, but I'm definitely looking to pick up new languages to expand my skill set.
+I got into coding back in high school, which led me to start my degree in Data Science and AI at UNISENAI Florianópolis in 2025. When I discovered the programming universe, I totally fell in love. The idea of just writing some text and watching it turn into a whole working system blew my mind. Since then, I've been learning as much as I can. I mostly use Python and PostgreSQL right now, but I'm definitely looking to pick up new languages to expand my skill set.
 
 * 🌍  I'm based in Florianópolis SC
 * ✉️  You can contact me at [guilherme.silva.anselmo@gmail.com](mailto:guilherme.silva.anselmo@gmail.com)
 * 🚀  I'm currently working on [Quimio Analytics](http://github.com/vini20041994/QuimioAnalytics)
-* 🧠  I'm currently learning Python and PostgreSQL
-* 👥  I'm looking to collaborate on projects and a intern job
-* 💬  Ask me about I love gaming as well, and for sure will learn some programming for that too XD
+* 🧠  I'm currently learning Python, HTML, Javascript, tailwindCSS and PostgreSQL
+* 👥  I'm looking to collaborate on projects or a intern job
+* 💬  I love gaming as well, and for sure will learn some coding for that too XD
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
