@@ -12,7 +12,7 @@ I got into coding back in high school, which led me to start my degree in Data S
 
 * 🌍  I'm based in Florianópolis SC
 * ✉️  You can contact me at [guilherme.silva.anselmo@gmail.com](mailto:guilherme.silva.anselmo@gmail.com)
-* 🚀  I'm currently working on [Quimio Analytics](http://github.com/vini20041994/QuimioAnalytics)
+* 🚀  I'm currently working on [DopaNotes](https://github.com/gilas-byte/DopaNotes)
 * 🧠  I'm currently learning Python, HTML, Javascript, tailwindCSS and PostgreSQL
 * 👥  I'm looking to collaborate on projects or a intern job
 * 💬  I love gaming as well, and for sure will learn some coding for that too XD
