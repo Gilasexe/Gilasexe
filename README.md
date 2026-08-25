@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/main/assets/banner.svg" alt="Guilherme Anselmo — Data Science & AI" width="900" />
+  <img src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/master/assets/banner.svg" alt="Guilherme Anselmo — Data Science & AI" width="900" />
 </p>
 
 <p align="center">
@@ -96,15 +96,12 @@ fun_fact:  I reverse-engineered a game's binary save format for fun
 ## `> stats`
 
 <!--
-  These two cards use the PUBLIC github-readme-stats instance, which is shared by
-  hundreds of thousands of profiles and is frequently rate-limited (broken images).
-  Fix: deploy your own instance and replace the host below with your Vercel domain.
-      https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance
-  e.g.  https://grs-gilas.vercel.app/api?username=gilas-byte&...
+  These SVGs are regenerated daily by .github/workflows/stats.yml and committed
+  into this repo, so GitHub itself serves them. No external service, no rate limit.
 -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gilas-byte&show_icons=true&hide_border=true&title_color=00E5A0&icon_color=00E5A0&text_color=c9d1d9&bg_color=0D1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilas-byte&layout=compact&hide_border=true&langs_count=8&title_color=00E5A0&text_color=c9d1d9&bg_color=0D1117" />
+  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/master/assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/master/assets/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
