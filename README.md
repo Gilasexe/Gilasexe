@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/master/assets/banner.svg" alt="Guilherme Anselmo — Data Science & AI" width="900" />
+  <img src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/main/assets/banner.svg" alt="Guilherme Anselmo — Data Science & AI" width="900" />
 </p>
 
 <p align="center">
@@ -100,8 +100,8 @@ fun_fact:  I reverse-engineered a game's binary save format for fun
   into this repo, so GitHub itself serves them. No external service, no rate limit.
 -->
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/master/assets/stats.svg" alt="GitHub stats" />
-  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/master/assets/top-langs.svg" alt="Top languages" />
+  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/main/assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="https://raw.githubusercontent.com/gilas-byte/gilas-byte/main/assets/top-langs.svg" alt="Top languages" />
 </p>
 
 <p align="center">
